@@ -1,1 +1,2 @@
-# Frontend_Newbie
+# Frontend-Mentor-Challenges
+Completed Challenges from Frontend Mentor
